@@ -2,7 +2,7 @@
 
 ## Begin
 
-<img class="main-image pixelated" src="/images/Crew.png"></img>
+<img class="main-image pixelated" src="https://michael-barcham.github.io/Helfjord/images/Crew.png"></img>
 
 <p>a description might go here if needed</p>
 <div id="spoiler" style="display:none"> 
