@@ -1,4 +1,4 @@
-# Lapp Quest: A Helfjord Fanfic
+# Helfjord: A DnD Fanfic
 
 ## Begin
 
@@ -6,14 +6,13 @@
 
 <p>a description might go here if needed</p>
 <div id="spoiler" style="display:none"> 
-<p>Lapp:    I like apples</p>
-<p>Erdan:   Shut up also i am racist</p>
-<p>Miri:    *does stab*</p>
-<p>Morne:   Bless you!</p>
-<p>Veit:    Am lost</p>
-<p>Orlando: Am straight</p>
-<p><a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/Flanderization">Flanderise her? I barely know 'er</a></p>
-
+  <p><font color=#189502>Lapp:    I like apples</font></p>
+  <p><font color=#660000>Erdan:   Shut up also i am racist</font></p>
+  <p><font color=#000099>Miri:    *does stab*</font></p>
+  <p><font color=#999900>Morne:   Bless you!</font></p>
+  <p><font color=#00a3cc>Veit:    Am lost</font></p>
+  <p><font color=#663300>Orlando: Am straight</font></p>
+  <p><a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/Flanderization">Flanderise her? I barely know 'er</a></p>
 </div> 
 <button title="Dialogue" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}">Show/hide</button>  
 <p>//Possibly there will be more pictures to give character's faces while they say stuff (at a higher resolution than the main image).</p>
