@@ -1,3 +1,23 @@
+# Lapp Quest: A Helfjord Fanfic
+
+## Begin
+
+put an image (or three) here
+put some words here too
+link to next page here
+
+### [Suggestions](https://docs.google.com/forms/d/1gA93L5m_3p3brvnw16jQMmJhGm_uoIiFuLvl1sOPMnQ/)
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Michael-Barcham/Helfjord/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
