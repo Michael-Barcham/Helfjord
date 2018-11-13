@@ -2,7 +2,7 @@
 
 ## Begin
 
-<img src="https://orig00.deviantart.net/d026/f/2018/317/d/e/crew_by_michael_barcham-dcrvleq.png"
+<img class="main-image pixelated" src="/images/Page 0001.png"></img>
 
 <p>a description might go here if needed</p>
 <div id="spoiler" style="display:none"> 
