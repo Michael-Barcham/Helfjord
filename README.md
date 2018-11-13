@@ -4,28 +4,21 @@
 
 There will be an image here  
 
-a description might go here if needed
+<p>a description might go here if needed</p>
 <div id="spoiler" style="display:none"> 
-
-Lapp:    I like apples  
-
-Erdan:   Shut up also i am racist  
-
-Miri:    *does stab*  
-
-Morne:   Bless you!  
-
-Veit:    Am lost  
-
-Orlando: Am straight  
-
-[Flanderise her? I barely know 'er](https://tvtropes.org/pmwiki/pmwiki.php/Main/Flanderization)  
+<p>Lapp:    I like apples</p>
+<p>Erdan:   Shut up also i am racist</p>
+<p>Miri:    *does stab*</p>
+<p>Morne:   Bless you!</p>
+<p>Veit:    Am lost</p>
+<p>Orlando: Am straight</p>
+<p>[Flanderise her? I barely know 'er](https://tvtropes.org/pmwiki/pmwiki.php/Main/Flanderization)</p>
 
 </div> 
 <button title="Dialogue" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}">Show/hide</button>  
-Possibly there will be more pictures to give character's faces while they say stuff (at a higher resolution than the main image).
+<p>//Possibly there will be more pictures to give character's faces while they say stuff (at a higher resolution than the main image).</p>
 
-###link to next page here
+### link to next page here
 
 ### [Suggestions](https://docs.google.com/forms/d/1gA93L5m_3p3brvnw16jQMmJhGm_uoIiFuLvl1sOPMnQ/)
 
