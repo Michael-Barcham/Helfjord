@@ -6,12 +6,12 @@
 
 <p>a description might go here if needed</p>
 <div id="spoiler" style="display:none"> 
-  <p><font color=#189502>Lapp:    I like apples</font></p>
-  <p><font color=#660000>Erdan:   Shut up also i am racist</font></p>
-  <p><font color=#000099>Miri:    *does stab*</font></p>
-  <p><font color=#999900>Morne:   Bless you!</font></p>
-  <p><font color=#00a3cc>Veit:    Am lost</font></p>
-  <p><font color=#663300>Orlando: Am straight</font></p>
+  <p style="color:#189502">Lapp:    I like apples</p>
+  <p style="color:#660000">Erdan:   Shut up also i am racist</p>
+  <p style="color:#000099">Miri:    *does stab*</p>
+  <p style="color:#999900">Morne:   Bless you!</p>
+  <p style="color:#00a3cc">Veit:    Am lost</p>
+  <p style="color:#663300">Orlando: Am straight</p>
   <p><a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/Flanderization">Flanderise her? I barely know 'er</a></p>
 </div> 
 <button title="Dialogue" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}">Show/hide</button>  
