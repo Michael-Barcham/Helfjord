@@ -20,3 +20,9 @@ img.pixelated{
 	image-rendering: pixelated; 		              /* Chrome                         */
 	image-rendering: crisp-edges;
 }
+
+a{
+	text-decoration: underline;
+	color: black;
+	font-weight: bold;
+}
