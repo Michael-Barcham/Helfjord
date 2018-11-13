@@ -12,7 +12,7 @@ There will be an image here
 <p>Morne:   Bless you!</p>
 <p>Veit:    Am lost</p>
 <p>Orlando: Am straight</p>
-<p>[Flanderise her? I barely know 'er](https://tvtropes.org/pmwiki/pmwiki.php/Main/Flanderization)</p>
+<p><a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/Flanderization">Flanderise her? I barely know 'er</a></p>
 
 </div> 
 <button title="Dialogue" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}">Show/hide</button>  
