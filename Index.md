@@ -17,7 +17,7 @@
 <button title="Dialogue" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}">Show/hide</button>  
 <p>//Possibly there will be more pictures to give character's faces while they say stuff (at a higher resolution than the main image).</p>
 
-### link to next page here
+### [Begin](https://michael-barcham.github.io/Helfjord/pages/0001.html)
 
 ### [Suggestions](https://docs.google.com/forms/d/1gA93L5m_3p3brvnw16jQMmJhGm_uoIiFuLvl1sOPMnQ/)
 
