@@ -1,6 +1,10 @@
+---
+title: Home
+permalink /home.html
+---
 # Helfjord: A DnD Fanfic
 
-## Begin
+## Home
 
 <img class="main-image pixelated" src="https://michael-barcham.github.io/Helfjord/images/Crew.png">
 
