@@ -14,7 +14,7 @@ permalink /home.html
   <p style="color:#660000">Erdan:   Shut up also i am racist</p>
   <p style="color:#000099">Miri:    *does stab*</p>
   <p style="color:#999900">Morne:   Bless you!</p>
-  <p style="color:#00a3cc">Veit:    Am lost</p>
+  <p style="color:#00a3cc">Harry:    Am lost</p>
   <p style="color:#663300">Orlando: Am straight</p>
   <p><a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/Flanderization">Flanderise her? I barely know 'er</a></p>
 </div> 
